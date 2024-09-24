@@ -1,9 +1,9 @@
 
-funtionHello() {
+funtion Hello() {
     console.log("Hello there!");
 }
 
-funtion init() {
+function init() {
     console.log("hello, we are talking about DOM");
     Hello();
 }
