@@ -1,0 +1,12 @@
+main {
+    display: flex;
+}
+#list {
+    background-color: #146565;
+    flex: 3;
+}
+#form {
+    background-color: bisque;
+    height: 100%;
+    flex: 3;
+}
