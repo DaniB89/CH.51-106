@@ -8,5 +8,9 @@ class Task{
         this.date = date;
         this.status = status;
         this.budget = budget;
+        this.name = "Dani"
     }
 }
+
+// $('#myForm').on(submit, function(envent)) 
+    // prevent the default for submission behavior
